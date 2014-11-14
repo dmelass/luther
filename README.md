@@ -1,5 +1,5 @@
-<b>PROJECT LUTHER</b>
-
+Project Luther
+=======
 In this project, I worked with a database of about 500 action movies, and built a linear regression model to predict the success of a movie during its opening weekend, given its budget, director, and top three actors. I collected these movies from The Numbers (http://www.the-numbers.com/) using the Beautiful Soup module in Python. I used linear regression because the project was for our linear regression module.
 
 <b>In this respository...</b>
